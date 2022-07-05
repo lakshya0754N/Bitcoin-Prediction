@@ -1,4 +1,4 @@
-# Bitcoin-Prediction
+# Bitcoin-Price-Prediction
 Virtual currencies are a form of cryptocurrency which is an impressive technical achievement in
 digital marketing, nevertheless. Virtual currencies live on, and they couldn’t fully replace fiat or
 conventional currencies. In the current study, we are trying to show an interesting new
